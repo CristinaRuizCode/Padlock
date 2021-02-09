@@ -22,4 +22,4 @@ All the scripts in this repository have been created by me (Except interaction s
 The briefcase model was created by Juan Camilo Gómez and the padlock model by Antonio García Sánchez     
 :point_right: https://www.artstation.com/vivibb :point_left:
 
-:bangbang: THE MODELS OF THE BRIEFCASE AND THE PADLOCK CANNOT BE USED WITHOUT THE CONSENT OF THE ARTISTS :bangbang:
+:bangbang:THE MODELS OF THE BRIEFCASE AND THE PADLOCK CANNOT BE USED WITHOUT THE CONSENT OF THE ARTISTS:bangbang:
